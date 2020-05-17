@@ -1,0 +1,3 @@
+C:\Users\Michi\Documents\Visual Studio 2010\Projects\Noname Produkt\Noname Produkt\obj\x86\Debug\Noname Produkt.exe
+C:\Users\Michi\Documents\Visual Studio 2010\Projects\Noname Produkt\Noname Produkt\obj\x86\Debug\Noname Produkt.xml
+C:\Users\Michi\Documents\Visual Studio 2010\Projects\Noname Produkt\Noname Produkt\obj\x86\Debug\Noname Produkt.pdb
